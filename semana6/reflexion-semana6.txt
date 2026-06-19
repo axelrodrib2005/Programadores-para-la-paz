@@ -1,0 +1,7 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada porque esto permite organizar los datos de manera clara y eficiente. 
+Cuando la información sigue un formato definido, es más fácil procesarla, almacenarla y analizarla. 
+Además, se reducen los errores y se evita la pérdida de información importante. 
+Los reportes estructurados ayudan a las entidades responsables a identificar problemas y tomar decisiones más rápidas. 
+También facilitan el seguimiento de solicitudes, quejas o incidencias presentadas por la comunidad. 
+De esta manera, se mejora la comunicación entre los ciudadanos y las organizaciones. Esto contribuye a una gestión más transparente y eficiente de los recursos y servicios. 
+Por estas razones, el uso de datos estructurados fortalece la participación ciudadana y la solución de problemas comunitarios.

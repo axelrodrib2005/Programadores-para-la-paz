@@ -1,0 +1,11 @@
+Al enviar una petición POST a la ruta /registro con los datos en formato JSON, 
+el servidor recibe la información enviada y la devuelve como respuesta. 
+En este caso, el servidor responde con un objeto JSON que confirma que los datos fueron recibidos correctamente e incluye el nombre y el mensaje enviados por el usuario.
+
+Respuesta obtenida:
+
+{
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
