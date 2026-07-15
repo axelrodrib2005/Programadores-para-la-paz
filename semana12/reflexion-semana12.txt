@@ -1,0 +1,8 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy importante para fortalecer 
+la participación ciudadana y la organización comunitaria. Comprendí que una plataforma digital debe ser segura, 
+fácil de usar y proteger la información de los usuarios. 
+También aprendí la importancia de organizar los datos mediante bases de datos y de controlar el acceso a la información mediante autenticación. 
+Además, conocí herramientas como Git, Node.js, Express, n8n y Telegram para desarrollar soluciones colaborativas y automatizar procesos. 
+Entendí que una buena comunicación digital y la verificación de la información ayudan a generar confianza en la comunidad. 
+Finalmente, comprendí que la tecnología tiene un mayor impacto cuando se utiliza para resolver problemas reales, 
+promover la transparencia y facilitar la participación democrática de los ciudadanos.
